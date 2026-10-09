@@ -11,6 +11,7 @@ An AI-assisted procurement decision-support prototype that converts buyer requir
 ## Table of Contents
 
 - [Overview](#overview)
+- [Demo Video](#Demo)
 - [Business Problem](#business-problem)
 - [Project Objectives](#project-objectives)
 - [How the System Works](#how-the-system-works)
@@ -41,6 +42,12 @@ It combines optional large language model (LLM)-assisted requirement extraction 
 The goal is to make supplier evaluation more structured and transparent while keeping the final purchasing decision with the human buyer.
 
 > **Important:** The prototype uses synthetic supplier data. Its results demonstrate a decision-support workflow and should not be interpreted as verified recommendations about real suppliers.
+
+## Demo
+
+Watch the screen-recording demo of the AI B2B Supplier Selection Copilot:
+
+[▶️ Watch Project Demo on YouTube](https://youtu.be/2Wt8IQl-gHg)
 
 ## Business Problem
 
